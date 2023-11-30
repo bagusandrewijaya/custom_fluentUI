@@ -6,7 +6,7 @@ repository: https://github.com/bdlukaa/fluent_ui
 issue_tracker: https://github.com/bdlukaa/fluent_ui/issues
 
 environment:
-  sdk: ">=2.19.3 <3.0.0"
+  sdk: ">=2.19.2 <3.0.0"
   flutter: ">=3.0.0"
 
 topics:
